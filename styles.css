@@ -13,3 +13,11 @@ p{
 a{
   color:#ff0000;
 }
+.video-heading{
+  color:#33ba45;
+}
+.video-box{
+  background-color:#000000;
+  text-align: center;
+  padding:20px;
+}
